@@ -9,6 +9,5 @@ public interface DAOService {
       public void deleteReg(String email);
       public void updateReg(String email, String mobile);
       public ResultSet getAllReg();
-      public void closeDB();
-	
-}
+      public void closeDB();	
+}  
