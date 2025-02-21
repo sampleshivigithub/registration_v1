@@ -8,7 +8,7 @@ User Login – Users can authenticate using their credentials.
 Password Encryption – Secure password storage using BCrypt.
 JWT Authentication – Generates and validates JWT tokens for security.
 Role-Based Access – Supports different user roles (e.g., USER, ADMIN).
-RESTful API – Follows REST principles for client-server interaction.
+RESTful API – Follows REST principles for client-server interaction. 
 
 
 🛠️ Tech Stack
